@@ -1,0 +1,16 @@
+.main-area {
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.remember-forget{
+    display: flex;
+    justify-content: space-between;
+}
+
+.login{
+    padding: 40px;
+}
